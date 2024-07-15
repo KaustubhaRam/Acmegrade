@@ -1,0 +1,6 @@
+[submodule "detection_of_parkinsons_disease"]
+	path = detection_of_parkinsons_disease
+	url = https://github.com/KaustubhaRam/detection_of_parkinsons_disease.git
+[submodule "car_price_prediction"]
+	path = car_price_prediction
+	url = https://github.com/KaustubhaRam/car_price_prediction.git
